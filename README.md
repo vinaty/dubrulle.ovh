@@ -1,4 +1,4 @@
 # dubrulle.ovh
 - site web portfolio
-- responsive travaille
+- responsive under work
 - currently online
